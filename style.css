@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    font-family:'Times New Roman', Times, serif;
 }
 .container{
     border: 5px solid white;
@@ -29,6 +30,11 @@ h1{
     text-align: center;
     letter-spacing: -0.03em;
     color: #FFFFFF;
+}
+
+h3{
+    color:#5A537B;
+    font-weight: 600;
 }
 
 #user-input{
@@ -75,4 +81,6 @@ button{
 
 p{
     margin-top: 0px;
+    color: #353535;
+    font-weight: 400;
 }
